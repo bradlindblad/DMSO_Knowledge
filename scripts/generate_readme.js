@@ -1,5 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
+const { execSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
 const INPUTS_DIR = path.join(ROOT, 'inputs');
@@ -8,9 +9,34 @@ const START_MARKER = '<!-- DMSO INPUTS INDEX: START -->';
 const END_MARKER = '<!-- DMSO INPUTS INDEX: END -->';
 const TOPICS = ['cancer', 'lyme', 'migraine'];
 
+function detectGitBlobBase(root) {
+  try {
+    const remote = execSync('git remote get-url origin', { cwd: root, encoding: 'utf8' }).trim();
+    let httpsBase;
+    if (remote.startsWith('git@')) {
+      const m = remote.match(/^git@(.*?):(.*?)(?:\.git)?$/);
+      if (!m) throw new Error('unexpected remote format');
+      httpsBase = `https://${m[1]}/${m[2].replace(/\.git$/, '')}`;
+    } else {
+      httpsBase = remote.replace(/\.git$/, '');
+    }
+    const branch = execSync('git rev-parse --abbrev-ref HEAD', { cwd: root, encoding: 'utf8' }).trim();
+    return `${httpsBase.replace(/\/$/, '')}/blob/${branch}`;
+  } catch (e) {
+    return process.env.GITHUB_BLOB_BASE || '';
+  }
+}
+
+const GITHUB_BLOB_BASE = detectGitBlobBase(ROOT);
+
 function mkFileLink(file, line) {
-  const encoded = encodeURIComponent(file).replace(/%2F/g, '/');
-  return line ? `./inputs/${encoded}#L${line}` : `./inputs/${encoded}`;
+  // produce inputs/<file> encoded for URLs but keep slashes
+  const filePath = `inputs/${file}`;
+  const encoded = encodeURIComponent(filePath).replace(/%2F/g, '/');
+  if (GITHUB_BLOB_BASE) {
+    return line ? `${GITHUB_BLOB_BASE}/${encoded}#L${line}` : `${GITHUB_BLOB_BASE}/${encoded}`;
+  }
+  return line ? `./inputs/${encodeURIComponent(file)}#L${line}` : `./inputs/${encodeURIComponent(file)}`;
 }
 
 function excerptLine(lineText, idx, len = 60) {
@@ -37,28 +63,15 @@ async function scanFile(file) {
     matches[topic] = [];
     for (let i = 0; i < lowLines.length; i++) {
       let idx = lowLines[i].indexOf(topic);
-      if (idx !== -1) {
+      while (idx !== -1) {
         matches[topic].push({
           line: i + 1,
           snippet: excerptLine(lines[i], idx)
         });
-        // Continue searching same line for additional occurrences of same topic
-        let rest = lowLines[i].slice(idx + topic.length);
-        let extraIdx = rest.indexOf(topic);
-        while (extraIdx !== -1) {
-          // compute absolute index of extra occurrence
-          const absoluteIdx = idx + topic.length + extraIdx;
-          matches[topic].push({
-            line: i + 1,
-            snippet: excerptLine(lines[i], absoluteIdx)
-          });
-          rest = rest.slice(extraIdx + topic.length);
-          extraIdx = rest.indexOf(topic);
-        }
+        idx = lowLines[i].indexOf(topic, idx + topic.length);
       }
     }
   }
-  // also get title from first heading if present
   const firstLine = lines.find(l => l.trim().length > 0) || file;
   const title = (firstLine.startsWith('#') ? firstLine.replace(/^#+\s*/, '') : file);
   return { file, title, matches };
