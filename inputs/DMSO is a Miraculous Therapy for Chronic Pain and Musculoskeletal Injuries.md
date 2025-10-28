@@ -1,4 +1,4 @@
-Story at a Glance:
+## Story at a Glance:
 
 •The standard approach for treating pain and musculoskeletal injuries typically involves giving NSAIDs (e.g., ibuprofen), and in more severe cases, opioids. Unfortunately, these drugs are extremely dangerous (e.g., each one kills tens of thousands of people each year), but nonetheless have remained the standard of care for decades.
 
@@ -58,7 +58,7 @@ The Forgotten Side of Medicine is a reader-supported publication. To receive new
 
 Note: one of the most important precautions with DMSO is to not havee a toxic chemical on the skin (e.g., a pesticide, nicotine or mercury) which it can draw into the body once DMSO is applied there (hence why it’s generally advised to wash the skin beforehand). Additionally, there are some unresolved questions about using DMSO while pregnant that will be discussed in an upcoming article.
 
-How DMSO Works
+## How DMSO Works
 In the first part of this series, I provided a wealth of evidence that demonstrates a few key properties of DMSO, such as:
 
 •It rapidly spreading throughout the body once it contacts the skin (or is ingested), and if mixed with anything, brings that into the body as well.
@@ -77,7 +77,7 @@ Note: in addition to these mechanisms, I believe that DMSO’s other properties 
 
 However, I believe DMSO’s least appreciated effect arises from its ability to eliminate blood stasis in the body, as in many cases, chronic pain is due to insufficient blood reaching an area (e.g., DMSO has been recognized to address the pain associated with blood clots). This builds on an observation from Chinese Medicine that blood stasis can cause severe pain throughout the body (e.g., sharp piercing pains are often associated with blood stasis) and my observation that blood stasis is a key disease of the modern age (in large part due to vaccines altering the electrical dispersion within the body and creating micro clots throughout it).
 
-How DMSO Treats Pain
+## How DMSO Treats Pain
 Note: I harbor strong ethical issues with animal experimentation (discussed further here) but am nonetheless citing animal studies because it is important for this information to be known.
 
 A few mechanisms have been identified to explain how DMSO treats pain (many of which also likely account for DMSO’s remarkable ability to heal musculoskeletal injuries).
@@ -131,7 +131,7 @@ Furthermore, in addition to enhancing parasympathetic function, DMSO also blocks
 
 Note: this property may also contribute to DMSO’s pain-relieving effects as existing research shows acetylcholine esterase inhibitors reduce chronic pain.
 
-Anti-inflammatory:
+## Anti-inflammatory:
 Many of my colleagues who used DMSO in practice primarily used it for inflammation. It was incredibly effective in this regard, and unlike the other dangerous options (e.g., steroids or NSAIDs), DMSO is very safe. Since inflammation is a key component of both pain and musculoskeletal injury (e.g., “chronic inflammatory pain” is well recognized), this property likely is key to DMSO’s utility in those conditions.
 
 In the first part of this series, to help illustrate how DMSO can protect injured tissue from death (and allow non-healing brain or spinal cord tissue to heal), I provided the evidence (like this study) showing DMSO:
@@ -159,7 +159,7 @@ Additionally, as shown later in this article, numerous studies show DMSO prevent
 
 Note: a study which evaluated ultraviolet light’s ability to produce an inflammatory response that killed melanocytes in the skin found that DMSO caused an increased density of melanocytes, which again suggests DMSO facilitates a better recovery of the inflammatory response.
 
-Muscle Relaxation
+## Muscle Relaxation
 DMSO tends to relax skeletal muscle while simultaneously enhancing the contraction of other muscles (e.g., 3-6% DMSO enhanced the contraction of the heart and stomach).
 
 DMSO applied topically to the skin of patients produces electromyographic evidence of muscle relaxation 1 hour after application, while another study found 50% DMSO prevented the contraction of frog skeletal muscles.
@@ -168,7 +168,7 @@ A 1966 study found that (as shown by electromyography) muscles in spasm will rel
 
 As muscle tension is a frequent cause of pain and musculoskeletal disorders, this property likely accounts for some of its efficacy for those conditions.
 
-Treating Pain with DMSO
+## Treating Pain with DMSO
 As opioids are seen as the gold standard for pain control, there is very little awareness research has shown a comparable analgesic exists. To illustrate:
 
 •A 1983 study using a common research metric (how mice respond to heat and tail flicks) found that DMSO produced an analgesic effect comparable in strength to morphine. However, this effect was assessed to be due to a different mechanism as an opioid receptor blocker (naloxone) did not affect DMSO’s ability to eliminate pain, DMSO did not produce any of the side effects seen with opioids, and DMSO’s effect lasted far longer (4-6 hours and in some cases over 24 hours—whereas in contrast morphine typically lasted less than 2 hours).
@@ -196,7 +196,7 @@ Additionally:
 
 •Shingles (which will be discussed in a later part of this series) consistently has an excellent response to DMSO.
 
-Cancer Pain
+## Cancer Pain
 Many cancer patients experience severe pain (which increases as the cancer becomes terminal), and in 10-20% of cases, it does not respond to standard opioid management. In many cases however, it does to DMSO. For example:
 
 •A study gave two older patients with cancer pain DMSO, one of whom had an excellent response to treatment and one who had a good response.
@@ -205,7 +205,7 @@ Many cancer patients experience severe pain (which increases as the cancer becom
 
 •One of the most well known examples was Otis Bowen MD (a popular second term Indiana governor) who “illegally” used topical DMSO to treat his wife’s pain from terminal multiple myeloma and then publicly denounced the FDA’s absurd embargo on it at the AMA’s 1981 national meeting. Remarkably, a few years later, Bowen became Reagan’s Secretary of Health and Human Services, but even then, with this highly ethical doctor at the helm of the HSS, DMSO was unable to overcome the FDA’s prohibition of it.
 
-Headaches
+## Headaches
 Tension headaches (e.g., those caused by muscular tension of the neck) and sinus headaches tend to respond to DMSO (with relief typically lasting 4-6 hours), whereas migraine and cluster headaches are less responsive to DMSO. For example, in addition to the previously mentioned study where DMSO was found to both relax the cervical musculature and alleviate tension headaches, these results were reported by two doctors:
 
 
@@ -219,7 +219,7 @@ Finally, a study of 15 patients with tinnitus (another condition which responds 
 
 Note: there are numerous testimonials of individuals with years of headaches who experienced life-changing results from DMSO.
 
-Fibromyalgia
+## Fibromyalgia
 Over the years, I have heard of quite a few cases of individuals with fibromyalgia having a massive improvement in their quality of life from DMSO (e.g., one can be found here) but simultaneously, I’ve also seen quite a few cases where it needed to done slowly for a sensitive patient (as otherwise the initial detoxification response was too much for the individual).
 
 Note: this principle is also important to keep in mind when working with other “sensitive” patients (which is discussed further here).
@@ -230,7 +230,7 @@ Over the last few years, we have been treating patients with fibromyalgia. Seven
 
 The properties of our regime contributing to benefit included free-radical scavenging, analgesia, anti-inflammation, softening of scar tissue, reduction of muscle spasm, and stimulation of healing.
 
-Spinal Pain:
+## Spinal Pain:
 Many of the most profound benefits from DMSO are found in patients with spinal issues (e.g., spinal stenosis, a failed back surgery, surgical scars, severe arthritis, previous spinal cord injuries, or bulging discs), and numerous testimonies (e.g., many can be found in the Congressional hearing) exist of individuals who had been in years of crippling pain suddenly getting their lives back because of how effectively DMSO treated their pain and restored their mobility.
 
 However, while I frequently read case reports of this, I have only located one which specifically evaluated this. In that 1968 study, 38 patients with lumbar and cervical disc problems received conventional (non-surgical) treatments and half also received DMSO—which was found to halve the treatment time they required.
@@ -261,7 +261,7 @@ Additionally, there are also many stories of quadriplegics who initially took DM
 
 During the last six months, have spent many hours in Dr. Jacob’s clinic with his beautiful and caring staff, watching miracle after miracle happen right in front of my eyes. I have seen people who have been totally paralyzed for twenty years or more being treated and starting to move. The wonder in their eyes indeed a sight to behold.
 
-Complex Regional Pain Syndrome
+## Complex Regional Pain Syndrome
 Complex regional pain syndrome (CRPS), is a chronic pain condition that is characterized by also having autonomic and inflammatory involvement. Other than it frequently following a trauma (e.g., a surgery) and being linked to small fiber neuropathy, the causes of CRPS are still not well understood and management of this challenging condition typically consists of a plethora of pharmaceutical drugs targeting each symptom.
 
 This is a shame as there are few unorthodox therapies which effectively treat CRPS, one of which is DMSO (which as mentioned before blocks pain from the small fibers). Sadly however (like the other CRPS treatment options) there is very little knowledge of DMSO’s unique applicability to the condition.
@@ -292,7 +292,7 @@ The supporting evidence is as follows:
 
 Additionally, to highlight that these benefits extend to neuropathic conditions besides CRPS, another study found that of 9 patients with peripheral neuritis segmental neuralgia, DMSO gave 6 a full remission and 2 a partial remission.
 
-Surgical Pain
+## Surgical Pain
 Since DMSO both accelerates wound healing and reduces pain, it is uniquely suited to post operative pain. Numerous studies support this. For example:
 
 •A rat study found administering DMSO into a wound before closing it significantly reduced the subsequent pain and guarding the rats had, suggesting this approach could address a common complication of surgery.
@@ -303,7 +303,7 @@ Since DMSO both accelerates wound healing and reduces pain, it is uniquely suite
 
 •Another study treated 37 post-surgical patients with chronic intractable pain syndromes and noted excellent relief in 32 of them.
 
-Other Pain Studies
+## Other Pain Studies
 •In a 2024 randomized placebo-controlled trial, 62 patients with plantar fasciitis applied a topical solution of phytoterpenes with 15% DMSO, 1% limonene, and rosemary oil as penetration enhancers twice daily for 10 days. This caused an 85% or greater reduction in pain scores in 78.1% of patients whereas no improvement was seen in the placebo group.
 
 •DMSO gel with Synthalen LP carbomer, applied externally, effectively reduced inflammation and pain with high stability and bioavailability.
@@ -320,12 +320,12 @@ Other Pain Studies
 
 •DMSO reduced tongue pain and inflammation in patients with glossalgia.
 
-Wound Healing
+## Wound Healing
 Due to its properties, DMSO tends to accelerate wound healing, prevent wounds getting infected, eliminate pain, heal chronically non-healing wounds and prevent the formation of scar tissue or dissolve it once present (a property which may relate to its remarkable ability to eliminate amyloid aggregates throughout the body). Because of this, there are many accounts of individuals saying they’ve benefitted greatly from applying it immediately after wounds (typically around the wound rather than inside it).
 
 Note: a reader who did his PhD in physical and organic chemistry shared that his research had shown DMSO could change the molecular bonding of atoms in its vicinity, which allows it to greatly accelerate biochemical reactions. Assuming this is true, it might help to explain why DMSO accelerates healing.
 
-Ulcers
+## Ulcers
 Note: as shown in the previous article (and for instance in this commenter’s experience), varicose veins and ulcers have an excellent response to DMSO.
 
 A large study of chronic skin wounds (which in many cases had remained untreatable for years or were infected) found 95.04% had a complete recovery (e.g., no burn scars) following DMSO that was often quite rapid. The conditions treated were as follows:
@@ -343,13 +343,13 @@ In humans, case reports exist of DMSO treating these injuries (e.g., see this re
 
 Finally, when used on open wounds in horses, DMSO was found to rapidly stimulate healthy granulation tissue, decrease excessive granulation tissue, and both eliminate existing infections in the wounds and prevent new infections.
 
-Tissue Regeneration
+## Tissue Regeneration
 DMSO has the unique property of accelerating the speed at which newts regenerate lost limbs by approximately 2-3 days (see this paper and this dissertation).
 Note: newts are one of the only advanced organisms which can regenerate a lost limb.
 
 Additionally, authors of a 1998 Russian paper stated that they are routinely applying DMSO into surgical wounds as it accelerates healing and provides general infection control. This in turn is congruent with the pain studies mentioned earlier in this article that show DMSO improves the healing of surgical wounds.
 
-Scar Tissue and Adhesions
+## Scar Tissue and Adhesions
 DMSO is often used to treat scars. This may be in part due to DMSO being observed to disrupt the links between collagen fibers
 
 Note: Matrix metalloproteinases degrade the proteins that surround cells. While their function is essential, when excessive, they (especially MMP-9) are linked to a variety of disease states (e.g., organ fibrosis, cardiovascular disease, cancer, and rheumatoid arthritis) due to the healing process becoming disordered. DMSO in turn has been shown to attenuate excessive MMP-9 activity.
@@ -368,14 +368,14 @@ Finally, DMSO is also sometimes used to repair keloid scars. For example, in one
 
 Note: this author also found DMSO had a concentration dependent effect on the wound healing process.
 
-Skin Flaps and Grafts
+## Skin Flaps and Grafts
 •Surgically created skin flaps are at an increased risk of dying due to poor blood perfusion. Numerous studies (e.g., this one, this one, this one, this one, this one, this one, this one, this one, this one, this one, this one, this one, this one, this one, this one and this one) have shown DMSO protects vulnerable skin flaps from death (including in a rat model of smokers and women receiving masectomies), which makes it a shame it is not used in fields that could greatly benefit from this innovation (e.g., plastic surgery).
 
 Likewise, skin grafts, even from the same person, often fail. Fortunately, DMSO happens to address the common causes of skin graft failures. To illustrate, a Ukrainian plastic surgeon documented that in over 500 transplants that dressings moistened with 30% DMSO solution for 3-5 days enabled grafts to take and survive in badly burned patients and victims of elephantiasis (e.g., there was no skin necrosis, no inflammatory changes, no keloids, and no hypertrophic scars). Similarly, a study of 120 rabbits demonstrated the DMSO significantly improved the viability of a skin or cartilage graft.
 
 Note: in rabbits, DMSO was shown to reduce tissue carbon dioxide levels, and when mixed with hydrogen peroxide, increase oxygen levels, but this effect was not seen in rats or pigs.
 
-DMSO and Musculoskeletal Injuries
+## DMSO and Musculoskeletal Injuries
 While DMSO is a remarkably effective painkiller and wound healing agent, by far its number one use was the treatment of musculoskeletal conditions, particularly those which created a functional immobility. In turn, many of the early adopters of DMSO went from skeptics to believers because of the rapid and dramatic improvements they saw from it (e.g., as they had patients with a debilitating bursitis in the shoulder recovering within minutes of receiving DMSO).
 
 Due to its safety and dramatically better performance than the existing treatment options, DMSO rapidly took off around the country. Numerous pharmaceutical companies clamored for it (and invested millions in bringing it to market), and before long, many doctors were using it on thousands of patients with unbelievable results—results that were particularly unbelievable given how poorly the existing therapies worked.
@@ -539,7 +539,7 @@ Lastly, many patients find taking DMSO allows them to significantly lower the do
 
 Note: many patients with arthritis also experience positive results from MSM (DMSO’s primary breakdown product in the body) or soaking in sulfur containing hot springs.
 
-Sports Injuries
+## Sports Injuries
 What I like about DMSO is that you don’t have to interrupt your training every time you get a minor pull or sprain. It doesn’t pump you up like certain pills. It’s simply a very useful thing to use for simple athletic injuries. Some people have told me that you shouldn't use it because it might mask the pain of a serious injury, but a good athlete knows his body well. Even when I’m using DMSO, I know when I can push and when I can’t. —Al Oerter, a discus thrower and the first American to win 4 consecutive Olympic gold medals.
 
 One of the greatest challenges professional athletes face are sports injuries which prevent them from returning to the field, particularly since many sports injuries are a product of micro-injuries building up until a critical point is passed (e.g., from adhesions and scars in the soft tissue). In turn, since DMSO both heals micro-injuries and rapidly treats traumatic injury (returning them to full functionality), DMSO was rapidly adopted by professional athletes once they realized what it could do for their careers (and being off the field was often devastating to their careers). In turn, due to the voice their position afforded them, a few professional athletes (e.g., Atlanta Falcons Quarterback June Jones—who now is a coach) became some of the most impactful advocates for DMSO (e.g., Jones stated in Congressional testimony that “veterinary” DMSO was widely used but athletes were afraid of publicly discussing it).
@@ -581,7 +581,7 @@ Additionally, a veterinary practice using 90% DMSO reported that in 10 dogs with
 •Two cases where the swelling and sensitivity around prosthetic implants was markedly reduced by DMSO.
 •A racing greyhound who sustained severe tendinitis above the tarsal joint (an injury where they are rarely are able to retain their former speed) who received DMSO after 60 days of non-recovery, rapidly improved, and after a few months won two races and before long established two new track records.
 
-Horse Studies
+## Horse Studies
 As DMSO is widely used in veterinary medicine, a wealth of research shows it treats musculoskeletal conditions (and likewise it is approved to treat those conditions). As there are too many too list, in the spirit of the FDA’s war against ivermectin, I wanted to share a few horse ones:
 
 In horses, after over 50 cases of bursitis or synovitis were treated with DMSO, in almost 90% of cases, there was at least “some improvement” and often a “complete return to normal,” in 65 cases of osteoarthritis and periostitis, 60% had a clinical improvement, in 20 cases of metacarpal periostitis (“bucked shin’’), 90% had a “quick relief,” and in 22 cases of tendinitis (bowed tendon), there was a therapeutic response superior to any existing therapy.
@@ -682,14 +682,14 @@ Note: my essential goal with this series (and why I’ve put so much time into i
 
 The Forgotten Side of Medicine is a reader-supported publication. To receive new posts and support my work, please consider becoming a free or paid subscriber.
 
-Dosing and Topically Applying DMSO
+## Dosing and Topically Applying DMSO
 My hope is that this article and the previous one make a strong case for how miraculous DMSO is and how egregious it is that the FDA kept it from America for decades, and why I felt it was so important to bring awareness to this subject.
 
 In the final part of this article, I will discuss the established protocols for applying topical DMSO for many of the conditions here (including our preferred methods), key precautions to be aware of, tricks we’ve found for using it, and our preferred sources for obtaining it.
 
 Note: internal and intravenous use of DMSO was discussed in the first part of this series and hence will not be discussed here. In many of these conditions (especially when they are more severe or widespread through the body, internal applications of DMSO are beneficial and sometimes necessary). Additionally, in many cases, topical DMSO is mixed with another agent which DMSO also brings into the body. That topic will be discussed in a later article.
 
-Sourcing:
+## Sourcing:
 Due to DMSO occurring in nature and it hence being classified as a dietary supplement, it is covered by the 1994 DSHEA act, As a result, unlike the previous decades, it is easily obtainable.
 
 Typically, when getting DMSO, there are four options.
@@ -730,13 +730,13 @@ If you are concerned about purity and authenticity, the Jacob’s lab DMSO is th
 
 Note: it is generally advised to store DMSO in an area free of sunlight (e.g., a fridge) because UV can gradually damage DMSO over time (although I’ve never been able to determine to what degree this happens). With nature’s gift, since DMSO is stored in amber colored bottles, sunlight exposure is much less of an issue.
 
-Safety:
+## Safety:
 Prior to using DMSO, there are essentially two things you need to figure out. The first is if you are one of the 1 in 2,000 people who have an allergy to it. Typically, the recommended approach is to do a small test prior to consuming a larger amount and see if you have signs of an allergic reaction (e.g., raised skin). This essentially sums up how to do it:
 
 So, What is Patch Testing?
 Patch testing is a method used to determine how the application reacts to a product. It's a smart way to test a small area first before applying the product to larger areas, which helps to identify any adverse reactions.
 
-How to Patch Test:
+## How to Patch Test:
 
 •Select a Small Area: Choose a discreet spot.
 •Apply a Tiny Amount: Use a small quantity of the product.
@@ -768,7 +768,7 @@ Fortunately, once DMSO has dried (which takes about 20 minutes) it is much less 
 
 Finally, it’s important to remember that DMSO (especially the liquid) can be washed off the skin with water (or a wet cloth), so if you have a reaction to it, do that.
 
-Topically Applying DMSO:
+## Topically Applying DMSO:
 A lot of different approaches exist for applying liquid DMSO (e.g., an [ideally organic] cotton swab or cotton ball has long been a popular method of application, while others like using a spray bottle [made of materials DMSO won’t dissolve]—particularly for sensitive areas). Typically, I prefer using a paintbrush, and if nothing is available, I often end up using my fingers (which does work). If you do the brush, it is important to get one that is made out of natural fibers (e.g., horse hair) rather than synthetic ones (which are more common) as those fibers can be absorbed by DMSO and then brought into your body.
 
 When applying DMSO with a brush, you have two options—dabbing it on or painting it on. The big advantage to the dabbing option is that it’s less likely to cause skin irritation (so I always suggest it to people who are having trouble tolerating topical DMSO—for example, this made patients much more open to using it from arthritis in the knees), while the major disadvantage is that not quite as much gets absorbed into the body. Regardless of which one you, assuming a liquid has been applied, you then want to give DMSO time to try (which can take 20 minutes) before putting anything on the skin above it (e.g., clothes or any type of chemical containing product).
@@ -785,7 +785,7 @@ In addition to dabbing on DMSO, the “tricks” I’ve found for topically appl
 
 Additionally, with small regions of the body (e.g., arthritic fingers) some people will just dip them directly in a DMSO solution.
 
-Dosing DMSO
+## Dosing DMSO
 There’s a certain art to administering DMSO, you have to figure out the best way to use the substance individually with each patient you work with. Some people will respond to 70 percent DMSO solution but may develop a slight rash, so you have to weaken the concentration a little. In more serious conditions, you might elect to strengthen the solution. Sometimes topical application isn’t the answer. One has to use injections— or maybe mix DMSO with another drug.
 
 With some patients, the topical DMSO works fairly well—as long as it’s a strong enough strength—70 percent being what seems to be the ideal. But other patients do better on shots under the skin in the beginning, with the topical administration as a back-up. In any event, what we've found here at the clinic is that you achieve the best results from DMSO when you use a lot of it and apply it not just to the inflamed area but to a wide lot of the surrounding area as well.
@@ -826,7 +826,7 @@ Finally, in chronic conditions DMSO tends to work better if its not taken every 
 
 Note: while DMSO is generally safe, topical DMSO is safer than oral DMSO, so it generally advised to start with topical DMSO and only transition to oral if it is advised by a healthcare practitioner (e.g., because it’s not possible to get enough DMSO into body just through the skin to treat certain chronic conditions like arthritis) or the user understands how to do it safely (e.g., they do not have an allergy to DMSO and it is always kept below 20% when swallowed).
 
-Diluting DMSO
+## Diluting DMSO
 Since DMSO weighs slightly more than water (1 ml of DMSO is 1.1 g whereas 1 ml of water is 1.0 g), there is a bit of math involved in getting the exact concentration with it (e.g., if you wanted 10ml of 50% DMSO, starting with 100% DMSO, you would mix 4.55ml of it with 5.44ml of water). This equation becomes even more complicated when you aren’t diluting pure DMSO (e.g., if you wanted 10ml of 50% DMSO, starting with 70% DMSO, you would mix 4.67ml of it with 5.33ml of water).
 
 However, it doesn’t actually need to be that complicated because:
@@ -838,14 +838,14 @@ Because of this, my view is to just treat DMSO as having the same weight as wate
 
 Note: mixing DMSO with water will generate heat (and thus should not be of concern). Additionally, my advice would be to use the same DMSO concentration when trying to determine the correct dose for yourself as it may otherwise get confusion to keep track of correcting converting the other concentrations to your preferred dose.
 
-Skin Reactions
+## Skin Reactions
 The primary issue with DMSO is that some people get irritated skin (e.g., redness, itching, or burning). This is normally temporary and passes (and often becomes less likely with subsequent doses of DMSO), but higher concentrations of DMSO over time in the same spot can create scaling on the skin. Similarly, a small number of patients find the skin reactions intolerable (which is why each of the trials I listed here had a few people withdraw), but this is typically seen with 90% rather than 70%.
 
 If this happens, the best remedy is typically to use a lower concentration and apply if possible apply it to a different area—but in most cases this won’t be applicable at 70%. Simultaneously, however, DMSO will create sensations in the skin (e.g., warmth, a bit of numbness, a pulsation or a prickling). As a result, its important to distinguish the normal DMSO feel from the skin being irritated (much in the same way you want to distinguish the normal reaction from the 1/2000 allergic one). With a bit of practice, these both become quite self-evident, so all of this is mostly to give you an initial idea of what you are looking for.
 
 Note: I believe some of the sensations people temporarily experience from topical DMSO arise from it temporarily blocking the conduction within the small nerve fibers.
 
-DMSO Applications for Specific Conditions
+## DMSO Applications for Specific Conditions
 Note: many of the doses and protocols I am citing in here are a bit different from what we use since we tend to err on the side of lower doses, whereas without muscle testing it’s often difficult to determine the lowest dose that will work for someone, especially if they are in severe pain and do not want to wait for you to try a few different doses. If you have the bandwidth to do so (either for yourself or for your patients) I would advise first becoming familiar with the effects of the lower doses before transitioning to the higher ones.
 
 Acute bursitis—a wider region (e.g., going from just below the ear to halfway down the arm and also the front of the chest down to the nipple and on the back over the shoulder blade) often gets better results.
@@ -884,7 +884,7 @@ Sunburns—these respond best to being sprayed finely with 30-60% DMSO solution 
 
 Trigeminal Neuralgia—ideally, start with with a local application around the region of pain. Still in many cases, the best results are obtained by applying it to the entire side of the head and neck (of the affected side of the body).
 
-Conclusion
+## Conclusion
 I’ve wanted to write about DMSO for a long time, but given its complexity, I put it off for well over a year because I didn’t feel I would be able to do it justice or honor the incredible work of everyone who fought for decades to bring the public’s attention to it.
 
 In turn, I sincerely thank you for your support and making it possible for endeavors like this to be done. It is my sincere hope that we are now entering a political climate where many of these Forgotten Sides of Medicine can burst into the public’s awareness (which based on what my colleagues have told me I believe is a real possibility if Twitter remains uncensored and RFK Jr. can have an influential role in the next Administration).

@@ -26,7 +26,7 @@ To some extent, this is to be expected, as, like many businesses, medicine revol
 
 Note: pneumonia and COPD are two of the most common reasons for hospital admissions. Asthma is in a similar situation, as while not fatal or anywhere as likely to send one to the hospital (admissions for asthma exacerbations are around 0.7% of hospital admissions), it requires the chronic consumption of similar medications, makes over 40 billion a year (and increasing at 4.4% annually), is a frequent source of hospital admissions (for asthma exacerbations), and despite all the money that’s been poured into it, asthma rates keep going up (e.g., in 1999 9.1% of Americans had ever been diagnosed with asthma whereas in 2022 44.2 million Americans had).
 
-Umbrella Remedies
+## Umbrella Remedies
 In medicine, there are a few therapies (e.g., ultraviolet blood irradiation) that have the ability to cure a wide range of diseases, and as such are referred to as “umbrella therapies.” This is because, amongst other things, they address the root causes of many illnesses such as poor circulation throughout the body, inflammation, and cells entering a state of shock where they stop functioning and eventually die.
 
 DMSO, in turn, has repeatedly been shown to be remarkably effective for a wide range of disorders including:
@@ -111,18 +111,19 @@ Then, I realized I had a nebulizer packaged up and sitting in storage. Wise or s
 
 I had a patient with scleroderma and interstitial lung disease (which had put them on the transplant list) but after receiving DMSO, the lung recovered and they no longer need a transplant. I also just saw a patient with sarcoidosis treating himself with dmso nebulized. He said it made a big difference—James Miller MD
 
-POLL
+## POLL
 Would you like to see more DMSO testimonials in the newsletter? I've avoided them because I feel concrete data should be focused on, but I also feel these stories need to be heard
 Yes
 Occassionally
 No
 No preference
-Pulmonary DMSO Data
+
+## Pulmonary DMSO Data
 A few months ago, while researching DMSO combination therapies, I realized the German DMSO community had done the most work in this area (particularly in regards to natural therapies) and began extensively studying their work. In parallel, about a month ago, I realized there was a way to access and summarize thousands of DMSO studies from Russia, China, Germany, and South America, so most of my focus recently has gone into trying to compile it (along with the similar data on UVBI). From that, I discovered that there is a lot more data supporting the use of DMSO (and UVBI) in a wide range of lung conditions than I had originally anticipated. Likewise, I have found many studies showing UVBI produces similar effects to those detailed below for DMSO.
 
 Note: doing this is exhausting, but for the next few years I plan to continue, in part because it’s helping a lot of people, but more importantly because right now (due to RFK, MAHA, and the Republican push to reduce deficit spending) is the best chance we will have in our lifetimes for these immensely cost-saving therapies to be adopted. As such, I want to give each of them the best chance to succeed, and as the DMSO experience shows, if you clearly present the forgotten data in a relatable manner, forgotten truths can quickly go viral.
 
-Lung Injury
+## Lung Injury
 DMSO’s ability to rescue damaged cells from death, stabilize cell membranes, reduce harmful inflammatory processes (which often set in after injuries or loss of blood), and restore the microcirculation have allowed it to be invaluable for a myriad of diseases within the internal organs (e.g., pancreatitis, liver cirrhosis, or infarctions to any organ). As such, DMSO also protects the lungs from devastating injuries.
 Note: if you cannot access the Chinese or Russian studies, it often requires using a VPN until you find an acceptable IP, as these databases are to some extent, restricted to their region.
 
@@ -145,7 +146,7 @@ Note: another study also found DMSO prevented lung ischemia-reperfusion injuries
 
 Note: I have also seen a few reports of people improving pulmonary emboli with DMSO, such as by applying to the site of a known clot (which if you decide to do so, must be done in conjunction with conventional care as PE’s are life-threatening).
 
-COPD and Pulmonary Fibrosis
+## COPD and Pulmonary Fibrosis
 As the previous section shows, these properties strongly suggest DMSO can counteract many of the disease processes which cause the lungs to fail. Furthermore, as mentioned before, significant data shows DMSO can often revive failing tissues or organs,1,2 reduce inflammation, and effectively reduce fibrosis throughout the body.
 
 As such, DMSO has been repeatedly shown to improve lung fibrosis:
@@ -164,7 +165,7 @@ Likewise, beyond preventing damage to the lungs, DMSO’s healing properties hav
 
 Note: other studies have also shown that DMSO helps with chronic non-specific lung diseases and preventing the pulmonary fibrosis frequently caused by certain chemotherapy drugs.
 
-Toxic Exposures
+## Toxic Exposures
 DMSO has helped me though. I have a weak heart and lungs due to 10 years of exposure to chlorine in a pool. My chest pain instantly retreats when I use it as well as tinnitus when I apply to my forehead.
 
 Note: I have also read a report of DMSO curing a chronic lung issue following a Teflon inhalation (from a heated pan).
@@ -192,7 +193,7 @@ In turn, DMSO has been shown to significantly reduce the damage caused by airway
 
 Note: since smoking is quite challenging to quit, this hence implies DMSO could be taken to counteract the harmful effects of that habit. I do not believe this is wise, as one study that combined DMSO soluble particles with cigarette smoke found low doses protected the vascular smooth muscles (while higher doses—which would likely be exceeded with chronic smoking—increased the harm and cell death in the blood vessels) and likewise, cigarette smoke particles dissolved in DMSO were found to increase the contractility of arteries in the brain. As such, I believe if someone with COPD plans to implement a DMSO nebulization protocol, they must first be done with smoking.
 
-Depleted Uranium
+## Depleted Uranium
 Various isotopes of uranium exist. While all are radioactive, only 0.7% is U-235, the type that undergoes chain nuclear reactions. As such, most nuclear technologies rely upon obtaining large amounts of uranium and extracting the U-235 for either for nuclear power or nuclear weapons (which is hard to do and hence why most countries lack the enrichment capacity to make nuclear weapons). Because of this, a lot of (still radioactive) waste U-238 exists which is referred to as “depleted uranium” or DU), and over the years, the military realized it was an excellent munition both due to its density (allowing it to destroy lower density metal armors) and it sharpening upon impact.
 
 This process unfortunately causes large amounts of dust. There has been significant controversy around this, such as DU poisoning being nearly impossible to cure, it being linked to Gulf War Syndrome along with cancers and birth defects in the countries where we deployed the munitions (e.g., in the earlier days of the internet where only flash videos existed I saw a rather disturbing video about Iraqi babies).
@@ -204,12 +205,12 @@ Collectively, the nine studies I located show DMSO has repeatedly demonstrated s
 
 Finally, a rabbit study found that intraperitoneal DMSO administered prior to a 20 Gy (lethal) dose of radiation to the chest significantly reduced the damage to their lungs (e.g., the integrity of the alveolocapillary membrane was maintained, there were no debris in the air sacs, and the lung’s microstructure remained unaffected)—all of which shows DMSO offered significant protection from acute radiation poisoning.
 
-Cystic Fibrosis
+## Cystic Fibrosis
 There is some data suggesting DMSO can improve the abnormal proteins which characterize cystic fibrosis, dissolve excessive mucus, and provide helpful antibacterial effects. Currently, I only know of one case where it was used for the condition which was recently shared with me by a colleague.
 
 I am currently treating a 45 year old CF patient with DMSO and glutathione. She was in the beginning stages of getting worked up for lung transplant. We'll have PFT's from before treatment and updates every 3 months starting in August. 1 month in, she's feeling like a teenager again, exercising and has been illness free for 4 weeks now, which is the longest period without antibiotics since she was in her 20's. She tells me I can share all the details of her case if you'd find them useful.
 
-Respiratory Infections
+## Respiratory Infections
 My English bulldog had a very stubborn case of pneumonia. She was on three different antibiotics over an eight week period & nothing seemed to help. Then we added DMSO to the treatment protocol! 1 week later her lungs were clear.
 
 As I showed here, DMSO is often immensely beneficial for many different infections, particularly when combined with other antimicrobial agents, as DMSO both enhances their ability to penetrate into (and throughout) the body and, by penetrating microbes, remove their antimicrobial resistance. As such, a lot of research (and many readers) has shown DMSO can frequently treat chronic infections or life threatening infections that do not respond to standard treatments, and in many cases, do so by simply being combined with a natural antimicrobial rather than a potentially toxic pharmaceutical drug.
@@ -242,7 +243,7 @@ In the one human study where DMSO was used for ARDS (given intravenously at conc
 
 Note: another study found that DMSO reduced immune cell infiltration of a lung infection, which can both be beneficial (as it explains how DMSO prevents the immune system from attacking the lungs in severe respiratory conditions), but also problematic if not done in conjunction with an antimicrobial therapy, can leave you inadequately defended against it
 
-Asthma
+## Asthma
 Many readers with asthma have shared DMSO changed their life:
 
 Holy moly, this is crazy. Dosed this weekend, 3 days, taking a short break (just can't have that odor during office hours), and already my asthma is almost non-existent. Beyond belief.
@@ -297,7 +298,7 @@ Note: there unfortunately are not any other studies I am aware of (other than on
 
 The Forgotten Side of Medicine is a reader-supported publication. To receive new posts and support my work, please consider becoming a free or paid subscriber.
 
-Treating Respiratory Conditions
+## Treating Respiratory Conditions
 I started to use [DMSO] to see if I could control my sinusitis…My sinusitis improved almost from day one, I no longer feel the mucous running at the back of my throat and, in the morning, I don’t experience anymore the intense coughing I used to have everyday.
 
 It is incredible. I treated my 4 day very serious sinus/cold/flu this week and it was the only thing that helped. I even nebulized peroxide, iodine, and silver before that. The DMSO was a lifesaver.
@@ -308,7 +309,7 @@ In turn, as more people have begun experimenting with nebulization (which must b
 
 In the final part of this article, I will review the existing protocols for using DMSO to treat respiratory conditions, along with providing guidance on other treatments for them (e.g., nebulized glutathione) and more general information on how to use DMSO for individuals wishing to use it for other issues (e.g., pain) and where to obtain it (remarkably despite DMSO costing almost nothing, a striking number of counterfeit and scam DMSO products are starting to emerge—which is sadly a testament to the world we live in).
 
-Sourcing DMSO:
+## Sourcing DMSO:
 Since there are numerous options when purchasing DMSO, I’ve frequently received many questions about the best brands to use. Of these, I’ve long believed that these are the three best options (and I’ve included Amazon links for your purchase).
 
 Note: unless you feel confident in diluting them correctly, opt for the 70% dilution, as that concentration typically works for most people.
@@ -333,7 +334,7 @@ Note: the website DMSO.store is for a completely different company.
 
 Note: I’ve now spoken to numerous people who purchased DMSO from someone promoting it online, and then shared that either they were scammed (nothing arrived after they paid) or the product that arrived wasn’t correct. People who engage in these types of activities tend to gravitate towards whatever is the “hot” item, and since DMSO is the current trend, I believe it is best to go with a longstanding vendor. Additionally, local sources of it (e.g., from Tractor Supply) are more than good enough for people’s immediate needs (e.g., an injury), but not ideal when preparing DMSO combinations (rather, I prefer the higher purity options available).
 
-DMSO dosing:
+## DMSO dosing:
 One of the challenges of using DMSO is that there's significant variation in what each individual responds to best. Because of this, throughout this series, I attempted to provide a detailed explanation that accounts for each possibility, which may be too complicated for many readers (but I still advise reading).
 
 However, most of it boils down to the following:
@@ -364,10 +365,10 @@ Similarly, when using DMSO, there are two common routes of administration: oral 
 
 Likewise, there is a very small risk (1 in 1-2000) of an allergic reaction, so it’s generally advised to begin by patch testing DMSO on the skin before taking it orally.
 
-So, What is Patch Testing?
+## So, What is Patch Testing?
 Patch testing is a method used to determine how the application reacts to a product. It's a smart way to test a small area first before applying the product to larger areas, which helps to identify any adverse reactions.
 
-How to Patch Test:
+## How to Patch Test:
 
 •Select a Small Area: Choose a discreet spot.
 •Apply a Tiny Amount: Use a small quantity of the product.
@@ -418,7 +419,7 @@ Note: as mentioned above, when applying DMSO topically, it is essential first to
 
 Lastly, since many readers have requested it, this is a general guideline on what doses of DMSO tend to be appropriate for each part of the body:
 
-Internal Use (Oral):
+## Internal Use (Oral):
 
 Starting Dose: 1-2 teaspoons in an 8 ounce (or greater) glass of water.
 
@@ -428,7 +429,7 @@ Body Weight-Based: 0.05-0.1 g/kg/day (e.g., 7 g for 70 kg, ~2.5 teaspoons), with
 
 Note: as DMSO has an unpleasant taste, it is frequently consumed with juice and away from meals.
 
-External Use (Skin):
+## External Use (Skin):
 
 Concentrations:
 
@@ -481,7 +482,7 @@ Note: there is a long history of isotonic seawater being healing and numerous br
 
 •12% magnesium chloride
 
-Respiratory Protocols
+## Respiratory Protocols
 From reviewing all the existing DMSO information, it appears that:
 
 Asthma frequently responds to topical DMSO (often 30-60% and sometimes diluted with 12% MgCl2) applied to the front (and, if possible, the back—which can be accomplished alone with a spray bottle) of the lungs, orally, or nebulized DMSO. Most of my readers have achieved success without nebulizing it, but the German community frequently does so and reports significant results from this approach. Finally, one reader who has treated his asthma with topical DMSO shared that the best relief comes from applying it in the morning after a shower and at night before going to bed.
@@ -501,7 +502,7 @@ Additionally, these principles can be applied for many other areas:
 
 Placed 1 drop of DMSO, 1 drop of Chlorine Dioxide in colloidal silver as carrier into a portable nebulizer (from Amazon) for this gnarly annoying tickle cough. So far it’s feeling I may be onto something.
 
-Nebulizing DMSO
+## Nebulizing DMSO
 I have seen a very wide range of concentrations people use to nebulize DMSO (e.g., a few drops in a nebulizer, 1%, 5-10%, 50%, or sometimes higher). All of these have worked for people, however I believe there are greater risks with higher DMSO concentrations than are seen in other modes of application, so it is essential to start at lower concentrations and gradually increase them and never go above 50%.
 Note: the community I feel is the most knowledgeable about DMSO advocates for 1% nebulization (and often just has a few drops in the nebulizer), whereas some DMSO authors suggest higher concentrations (e.g., 5-10%).
 
@@ -523,7 +524,7 @@ I think it’s more likely than not this is not an issue, particularly since the
 
 Note: as I have shown, data exists that demonstrates nebulizing DMSO can be quite beneficial to the lungs. In contrast, a rabbit study found that inhaling 25-50 ml/hr of DMSO for an hour each day for 8 weeks caused pathologic changes in the liver and lungs. While this was a high dose and may have been a rabbit specific issue, nebulizing DMSO has nonetheless often been advised against in the DMSO field (which I believe was due to that rabbit study). The best conclusion I can draw from these conflicting data points is that DMSO should be nebulized at low doses.
 
-Nebulized Glutathione
+## Nebulized Glutathione
 My California colleague found nebulized glutathione needed to be dosed between 50mg to 200mg a few times per day for each patient experiencing wildfire toxicity.
 
 •Many that offer nebulized glutathione use the same (widely available) glutathione that many compounding pharmacies provide for intravenous injection since that was what they had on hand. However, compounding pharmacies also provide preparation of glutathione meant for nebulization.
@@ -532,7 +533,7 @@ Note: if you do this route, please make sure the glutathione is not preserved wi
 
 •There are also a few options for purchasing preservative free glutathione that can be nebulized. Of these, I believe the one produced by Thera Naturals is the best option. Unfortunately, while it can be purchased on other websites (Google Reduced L-Glutathione Plus), Thera Naturals is currently out of stock due to the increased demand and hence needs to be contacted for it to be backordered (which I encourage you to do so they increase their supply).
 
-Other Natural Respiratory Therapies
+## Other Natural Respiratory Therapies
 Over the years, I’ve seen a lot other therapies help alleviate respiratory conditions. In many cases, increasing the mobility of the lungs (e.g., through full-body breathing exercises or bodywork that improves rib cage mobility) can significantly enhance their function. Additionally, many of the natural treatments for autoimmune disorders such as removing allergens from the diet or reducing stress (which I discussed along with reviewing many other natural approaches here) can often be immensely helpful for airway conditions, particularly asthma.
 
 For example, in many cases, over the years, we’ve run into numerous children with asthma who had very stressful (or traumatic) homes. Once they learned self-coping exercises to reduce their stress, their asthma improved. Likewise, in Chinese Medicine, the lungs are considered the organ associated with grief and sadness, and addressing that emotion (e.g., by expressing it rather than keeping it in) can sometimes significantly improve respiratory conditions.
@@ -541,7 +542,7 @@ Additionally, in many cases, asthma is triggered by overt (or silent) reflux irr
 
 Finally, many of the other approaches I’ve focused on here (e.g., improving the physiologic zeta potential or UVBI) can be quite helpful, particularly since when lung function is impaired it becomes more problematic if less blood can reach the lungs.
 
-Conclusion
+## Conclusion
 While medicine is never easy, one of my greatest frustrations was again and again seeing patients I knew could be easily helped with an existing “non-standard” therapy, instead be continually run through a pharmaceutical treadmill which often only made them sicker. Worse still, I found my colleagues would typically be quite hostile to considering an alternative therapy regardless of how I tried to present it.
 
 As a result, I feel incredibly blessed that a remarkable confluence of historical events is finally making it possible to bring the forgotten aspects of medicine to the public. If people can achieve miraculous results from easily available treatments that greatly exceed the standard of care, they will share their experiences with others. Especially in the post-pandemic climate we live in, many will listen. I am profoundly grateful to each of you for lending me your support and making this endeavor possible. Thank you.

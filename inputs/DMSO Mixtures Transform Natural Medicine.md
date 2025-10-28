@@ -1,4 +1,4 @@
-Story at a Glance:
+## Story at a Glance:
 
 •DMSO is an “umbrella remedy” capable of treating a wide range of challenging ailments due to its combination of therapeutic properties (e.g., reducing inflammation, improving circulation, and reviving dying cells). It also rapidly transports substances dissolved in it through the skin and throughout the body.
 
@@ -39,7 +39,7 @@ Many lung disorders, including asthma, COPD, pulmonary fibrosis, and cystic fibr
 Sadly, most of us have never heard about it because the FDA spent decades fighting an unconscionable battle to outlaw and erase DMSO from history. While unbelievable, consider for a moment this 1980 report by 60 Minutes that corroborates much of that:
 
 
-DMSO Combination Therapies
+## DMSO Combination Therapies
 DMSO’s ability to treat a wide range of illnesses results from its having a variety of highly unusual properties that appear to address the root causes of disease. At the same time however, since DMSO has so many different therapeutic mechanisms (e.g., increasing parasympathetic activity, increasing circulation, regenerating senescent cells, being highly anti-inflammatory, blocking pain conduction etc.), despite having now reviewed thousands of studies on it, there is still a great deal I do not understand about the substance.
 
 This is particularly true for one of DMSO’s most noteworthy properties, its ability to enhance the effects of other substances, which in many cases makes it possible to surmount major dilemmas traditionally seen with those therapies. This is particularly important, as while DMSO helps the majority of recipients (e.g., around 85-90% of readers reported relief from chronic pain), in many instances where DMSO alone will not suffice to address an ailment (e.g., pain), a combination therapy will.
@@ -81,7 +81,7 @@ Additionally, in many cases, natural alternatives to cosmetics can be made by co
 
 The Forgotten Side of Medicine is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber. To see how others have benefitted from this newsletter and its community, click here!
 
-Natural Combination Studies
+## Natural Combination Studies
 Since DMSO has so much value as a pharmaceutical vehicle, a large volume of scientific literature exists on DMSO being used in combination with pharmaceutical drugs, and many different approved formulations exist (highlighting the absurdity of our medical bureaucracy, as alone, DMSO is “dangerous and unproven” but when combined with other patentable agents “safe and effective”).
 
 As such, I covered that body of literature in the previous article, both to show, contrary to popular belief, that DMSO is widely used in medicine (provided money can be made), and so readers considering combination therapies could gain critical insights into how DMSO combinations interact with the body.
@@ -90,7 +90,7 @@ Beyond pharmaceuticals, many approved DMSO products also incorporate natural age
 
 Note: unless otherwise specified, all DMSO treatments were done topically (frequently with a DMSO containing ointment).
 
-Chinese Herbs
+## Chinese Herbs
 A significant amount of DMSO research has been done in China, which has naturally led to studying it in combination with traditional Chinese Herbs, where together, they have been found to help a wide range of conditions:
 
 •In rats with Alzheimer’s disease, DMSO and Ginkgo biloba extract (GBE), administered for 14 days, improved learning and memory by reducing escape latency and searching distance in a water maze test.
@@ -109,7 +109,7 @@ A significant amount of DMSO research has been done in China, which has naturall
 
 Note: some Chinese formulations combine steroids, DMSO, and borneol (a traditional medicine found in herbs like camphor, rosemary, thyme, ginger, and cannabis).
 
-Vitamins and Nutraceuticals
+## Vitamins and Nutraceuticals
 Vitamin C (ascorbic acid) has been combined with DMSO to treat a variety of conditions. For example:
 
 •A 2022 randomized trial of 25 patients (with 28 confirmed basal cell cancers), investigators found when 30% ascorbic acid was combined with 95% DMSO and 0.2–0.3 ml was applied topically twice a day (with a cuticle brush), after 8 weeks, 86.7% of the cancers had completely disappeared, whereas in comparison, after 8 weeks of 5% imiquimod (a common topical skin cancer treatment with side effects), only 57.1% had disappeared. Finally, ascorbic acid had fewer adverse effects than imiquimod (the standard treatment).
@@ -156,7 +156,7 @@ Note: a study on the solvation of nicotinamide (vitamin B3) in water–DMSO mixt
 
 Additionally, curcumin (an effective anti-inflammatory therapy which has absorption challenges) is a potent combination with DMSO and studies have assessed the molecular interactions of the two.1,2,3,4,5,6,7,8,9,10,11
 
-Iodine
+## Iodine
 As iodine has antimicrobial properties and is essential for the body, a variety of papers have explored using DMSO to bring forms of it into target areas such as:
 
 •In 58 patients, negative pressure wound therapy using DMSO and povidone (PVP) iodine was found to be an effective therapy for chronic purulent wounds, trophic ulcers with atherosclerotic lesions of the vessels of the extremities, and diabetic angiopathy.1,2
@@ -226,7 +226,7 @@ In dentistry, DMSO reduces inflammation within teeth (pulpitis) and gums (period
 
 •In extracted human third molars, a solution of 50% DMSO combined with epigallocatechin-3-gallate (EGCG) at 0.01–1% concentrations improved long-term dentin bonding stability compared to distilled water or DMSO alone; DMSO likely enhances EGCG penetration through dentin cell membranes to strengthen bonding durability.
 
-Other Head Conditions:
+## Other Head Conditions:
 •DMSO plus short-acting insulin and 5% calcium pantothenate (B5) safely treated 42 patients ages 23 to 62 with chronic parenchymatous parotitis. Likewise, another study also found DMSO and insulin treated this condition.
 
 •Sjogren's syndrome is quite difficult to treat. In one study, DMSO alone provided significant improvement which was further enhanced by vitamin C.
@@ -234,7 +234,7 @@ Other Head Conditions:
 
 •A variety of DMSO applications improve tinnitus. In one study, a combination spray containing circulation promoting agents like capsicum (and lidocaine) treated tinnitus
 
-Wound Healing
+## Wound Healing
 •In mice with second-degree burn wounds, DMSO, collagen, and dextran accelerated healing and reduced inflammation.
 
 •DMSO mixed with linetol (a flaxseed concentrate with anti-inflammatory, regenerative, and wound-healing properties) treated burns.
@@ -245,7 +245,7 @@ Wound Healing
 
 •A Russian suppository containing (50%) DMSO and hyaluronic acid (along with vitamin C, collagen, and coenzyme Q10) was developed to treat rectal fissures, while another (25% DMSO in a hyaluronic gel with MSM, collagen, vitamin C, and coenzyme Q10) was made to heal wounds, ulcers, burns, scars, keloids or similar diseases.
 
-Energy Combinations
+## Energy Combinations
 DMSO delivered with electrical currents has treated a variety of disorders such as:
 
 •Pyelonephritis in children
@@ -270,7 +270,7 @@ Lastly, ultrasound, heated mud, and acupuncture have also been combined with DMS
 
 Note: healers in many disciplines (e.g., some German physical therapists apply it in areas of pain or inflammation before manual therapy or doing a patient exercise) have reported that DMSO enhances their treatments. Likewise, using DMSO eye drops before eye exercises allows its muscle-relaxing properties to help loosen overstrained or hardened eye muscles, enhancing the effectiveness of exercises to improve eye muscle mobility.
 
-Natural Cancer Combinations
+## Natural Cancer Combinations
 In addition to vitamin C and Chinese herbs, many other natural therapies have been combined with DMSO to treat cancer. For example, many studies have found that infusing it with baking soda (sodium bicarbonate) is very helpful for reducing cancer symptoms:
 
 •A 2011 study found it significantly benefited patients with metastatic prostate cancer:
@@ -301,7 +301,7 @@ DMSO has been extensively shown to suppress cancer growth and cause cancer cells
 
 Lastly, DMSO has been shown to significantly potentiate conventional cancer therapies (and cure challenging cancers). In some cases, these studies also incorporate a natural therapy. For example, a 1975 study of 65 patients with incurable cancers (most of whom had received conventional therapies) found that a low dose of cyclophosphamide mixed in DMSO with GABA, GABOB, and acetylglutamine cured 57 of them.
 
-Other Natural Combinations
+## Other Natural Combinations
 •In a 2024 randomized placebo-controlled trial, 62 patients with plantar fasciitis applied a topical solution of phytoterpenes (10% camphor, 5% menthol, 5% eugenol, 2% eucalyptol, 3% vanillin) with 15% DMSO, 1% limonene, and rosemary oil as penetration enhancers twice daily for 10 days. This caused an 85% or greater reduction in pain scores in 78.1% of patients whereas no improvement was seen in the placebo group.
 
 •A 2021 study found DMSO combined with ginsenosides, particularly CK, exhibited significant therapeutic effects on rheumatoid arthritis. In cell studies, it potently inhibited the proliferation of LPS-induced RAW264.7 macrophages and TNF-α-induced HUVEC endothelial cells, while promoting their apoptosis, thus reducing inflammation and pannus formation. In collagen-induced arthritis mice, CK substantially alleviated joint swelling, redness, and functional impairment, preserved joint structure, and reduced proinflammatory cytokines TNF-α and IL-6. Additionally, CK modulated the immune response by increasing CD8+ T cells and decreasing activated CD4+ T cells and M1-macrophages, with low toxicity to major organs, positioning it as a promising candidate for RA treatment.
@@ -322,7 +322,7 @@ Note: 10% DMSO was repeatedly found to enhance the penetration of another peptid
 
 Lastly, in pinto beans, 0.01% DMSO was observed to effectively protect them from ozone injury, particularly at levels above 800 μg/m³ — which is highly relevant since DMSO is often combined with ozone or other oxidative therapies.
 
-Healing with Natural DMSO Combinations
+## Healing with Natural DMSO Combinations
 Despite having gone through over 10,000 studies on DMSO, there is still a great deal I do not understand about the substance, as much remains to be researched; many things have not been extensively explored. This in turn is particularly true for the natural therapeutic combinations, as while I listed quite a few of them in the previous section (which comprise every one I have thus far identified), there are hundreds if not thousands of natural therapies, each of which could be tested in for dozens of things in the body, hence making it impossible most will ever be extensively researched.
 
 Fortunately, the safety and efficacy of DMSO have inspired a large do-it-yourself community, particularly within Germany. As a result, many different combinations have been extensively explored, which have been successfully used to treat a wide range of conditions.
